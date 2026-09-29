@@ -1,6 +1,20 @@
+/**
+  COLORS:
+  https://coolors.co/palette/0a0908-49111c-f2f4f3-a9927d-5e503f
+  */  
+
+  [data-theme='gothic'] {
+      --color-primary: #F2F4F3;
+      --color-accent: #49111C;
+      --color-black: #0A0908;
+      --color-red: #d62828;
+
+
+  }
+
 .hero-mesh {
     background: url("https://wallpaperaccess.com/full/9056784.jpg");
     background-position: center;
     background-size: cover;
 }
-    
+  

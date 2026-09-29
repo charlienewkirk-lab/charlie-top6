@@ -1,15 +1,6 @@
-/* Your own rules. This file loads after Tailwind and daisyUI, so it wins a tie.
- * Reach for a utility class first; write CSS here when no utility can do it. */
 
-/* ============================================================ PALETTE
  *
- * "…"
- *
- * Name the mood in a sentence — "a chalkboard menu in a room that smells like
- * bread" — then list your colors and the job each one does. This block is what
- * you check later decisions against.
- *
- *   primary   #______   the action color: the button, number one, the marks
+ *   primary   #f2f4f3   the action color: the button, number one, the marks
  *   base-100  #______   the page ground
  *   base-200  #______   cards and sections that step forward from the ground
  *   base-300  #______   the footer, and the photo slots
@@ -19,7 +10,7 @@
  * theme on <html>. Measure both: white on your primary, and your primary as
  * text on the page. Each needs 4.5:1. */
 [data-theme='retro'] {
-  /* --color-primary: #______; */
+  /* --color-primary: #f2f4f3; */
   /* --color-primary-content: #______; */
 }
 
