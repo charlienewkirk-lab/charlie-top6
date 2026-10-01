@@ -9,8 +9,21 @@
       --color-black: #0A0908;
       --color-red: #d62828;
 
-
   }
+  
+body {
+    background-color: var(--color-WHITE);
+}
+
+.hero-title {
+    color: var(--color-primary);
+    text-shadow: 10px 10px 10px var(--color-black);
+}
+.hero-support {
+    color: var(--color-primary);
+    font-weight: 800;
+    text-shadow: 1px 1px 3px var(--color-black);
+}
 
 .hero-mesh {
     background: url("https://wallpaperaccess.com/full/9056784.jpg");
@@ -18,3 +31,9 @@
     background-size: cover;
 }
   
+/*** NAVBAR***/
+/*** NAVBAR***/
+/*** NAVBAR***/
+.site-nav-brand {
+    color: var(--color-black);
+}
